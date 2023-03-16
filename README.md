@@ -16,9 +16,9 @@ GitHub Finder is a web application that allows you to search for GitHub users an
 - Clone the repository using git clone https://github.com/ticoniq/Api-github-finder.git
 
 ## Usage
--Enter a GitHub username in the search bar and click the "Search" button or press Enter
--The search results will appear below the search bar, with pagination at the bottom
--Click on a user to view their profile information and repositories
+- Enter a GitHub username in the search bar and click the "Search" button or press Enter
+- The search results will appear below the search bar, with pagination at the bottom
+- Click on a user to view their profile information and repositories
 
 ## Live Demo
 - A live demo of the application can be found at 
